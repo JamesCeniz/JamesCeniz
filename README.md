@@ -1,4 +1,4 @@
-# Halloooo, I'm James Anthony Ceniza!
+# HELLOWW!!!, I'm James Anthony Ceniza!
 
 <div align="center">
   <img src="https://giffiles.alphacoders.com/221/221253.gif" width="200px" style="border-radius: 20px;" alt="gojo">
