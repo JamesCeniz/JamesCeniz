@@ -1,3 +1,8 @@
+# Halloooo, I'm James Anthony Ceniza!
+
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/221/221253.gif" width="200px" style="border-radius: 20px;" alt="gojo">
+
 # 💫 About Me:
 🔭 I’m currently working on a Start up Program on Alliance<br>👯 I’m looking to collaborate on some start up projects<br>🤝 I’m currently on a team project called Aqua Assure<br>🌱 I’m currently learning C# PHP Laravel <br>💬 Ask me about Web designing<br>⚡ Fun fact I am productive at midnight
 
