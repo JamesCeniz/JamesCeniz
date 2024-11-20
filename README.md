@@ -33,12 +33,12 @@
 
 ### Tools
 
-| ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Unity](https://skillicons.dev/icons?i=unity) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Plastic SCM](https://skillicons.dev/icons?i=plasticscm) |
+| ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Unity](https://skillicons.dev/icons?i=unity) | ![Git](https://skillicons.dev/icons?i=git) | ![GitHub](https://skillicons.dev/icons?i=github) |
 |:---:|:---:|:---:|:---:|:---:|
 | Visual Studio | VS Code | Unity | Git | GitHub | 
 
 | ![Bridge](https://go-skill-icons.vercel.app/api/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) | ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) | ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 | Bridge | Blender 3D | Adobe | Adobe Illustrator |  Adobe Photoshop |
 
 # 📊 GitHub Stats:
