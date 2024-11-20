@@ -37,9 +37,9 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Visual Studio | VS Code | Unity | Git | GitHub | 
 
-| ![Bridge](https://go-skill-icons.vercel.app/api/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Inkscape](https://go-skill-icons.vercel.app/api/icons?i=inkscape) | ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) | ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) |
+| ![Bridge](https://go-skill-icons.vercel.app/api/icons?i=bridge) | ![Blender](https://skillicons.dev/icons?i=blender) | ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) | ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) | ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Bridge | Blender 3D | Adobe | Adobe Illustrator |  Adobe Photoshop |
+| Bridge | Blender 3D | Adobe | Adobe Illustrator | Adobe Photoshop | Adobe Premier Pro |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JamesCeniz&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
